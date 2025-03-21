@@ -69,7 +69,7 @@ Serão considerados os seguintes critérios na avaliação:
 ## Regras do Teste
 1. Você deve **clonar o repositório** do projeto base;
 2. Realizar as alterações necessárias;
-3. Enviar o link do repositório atualizado para o email: `[INSIRA SEU EMAIL AQUI]`.
+3. Enviar o link do repositório atualizado para o email: `ti@petlandbrasil.com.br`.
 
 ## Diferenciais
 Os seguintes itens serão considerados diferenciais:
